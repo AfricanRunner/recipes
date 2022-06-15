@@ -1,6 +1,7 @@
 # Recipes
 
 - [Blueberry Muffins](blueberry_muffins.md)
+- [Chicken Carbonara](chicken_carbonara.md)
 - [Chocolate Chip Cookies](chocolate_chip_cookies.md)
 - [Devil's Food Cake](devils_food_cake.md)
 - [French Bread](french_bread.md)
