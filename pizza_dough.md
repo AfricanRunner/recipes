@@ -3,7 +3,7 @@
 # Ingredients
 
 - 1 pkg (2-1/4 tsp) Yeast
-- 1/2 cup Warm water
+- 1 1/2 cup Warm water
 - 1 1/2 tsp Sugar
 - 1 1/2 tsp Salt
 - 3 tbsp Oil
