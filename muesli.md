@@ -2,7 +2,7 @@
 
 # Ingredients
 
-- 2 cups Rolled oats
+- 3 cups Rolled oats
 - 1/2 cup Nuts
 - 1/4 cup Sunflower seeds
 - 1/2 cup Dried fruit
@@ -13,6 +13,8 @@
 
 # Method
 
-1. Chop nuts and dried fruit; combine all ingredients and mix well.
+1. Chop nuts and dried fruit; combine all ingredients (except dried fruit) and mix well.
 
 2. Spread out on a baking sheet then bake for **13 mins** at **300&deg; F**.
+
+3. Let fully cool then add dried fruit.
