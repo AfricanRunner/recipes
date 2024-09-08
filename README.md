@@ -9,6 +9,7 @@
 - [Molasses Crinkles](molasses_crinkles.md)
 - [Muesli](muesli.md)
 - [Pizza Dough](pizza_dough.md)
+- [Sausage Broccoli Noodle Casserole](sausage_broccoli_noodle_casserole.md)
 - [Stir Fry](stir_fry.md)
 - [V8 Chicken](v8_chicken.md)
 
