@@ -1,5 +1,6 @@
 # Recipes
 
+- [Baked Chicken Wings](baked_chicken_wings.md)
 - [Blueberry Muffins](blueberry_muffins.md)
 - [Chicken Carbonara](chicken_carbonara.md)
 - [Chocolate Chip Cookies](chocolate_chip_cookies.md)
